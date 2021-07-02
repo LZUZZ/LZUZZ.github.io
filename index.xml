@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I want to be a better coder(iwtbabc)</title>
-    <link>http://iwtbabc.github.io/</link>
+    <link>https://lzuzz.github.io/</link>
     <description>Recent content on I want to be a better coder(iwtbabc)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 01:26:52 -0700</lastBuildDate><atom:link href="http://iwtbabc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 01:26:52 -0700</lastBuildDate><atom:link href="https://lzuzz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://iwtbabc.github.io/post/my-first-post/</link>
+      <link>https://lzuzz.github.io/post/my-first-post/</link>
       <pubDate>Fri, 02 Jul 2021 01:26:52 -0700</pubDate>
       
-      <guid>http://iwtbabc.github.io/post/my-first-post/</guid>
+      <guid>https://lzuzz.github.io/post/my-first-post/</guid>
       <description>This is the first post</description>
     </item>
     
